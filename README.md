@@ -4,12 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 i'm student Computer Engineering at KMUTNB
 ------------------------------------------
 
-I have an interest in Devops and Cloud Now I'm Have the basics Terraform CI/CD docker K8s
-
-* 🌍  I'm based in Bangkok
-* ✉️  You can contact me at [sanyatangsook@gmail.com](mailto:sanyatangsook@gmail.com)
-* 🧠  I'm learning Various Cloud Services
-
 ### Skills
 
 
